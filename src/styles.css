@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.video {
+  width: 50%;
+  float: right;
+  display: flex;
+}
+.information {
+  width: 50%;
+  float: left;
+  display: flex;
+}
+.poster {
+  position: relative;
+  padding-top: 30px;
+  padding-left: 20px;
+  float: left;
+  width: 35%;
+}
+
+.description {
+  position: relative;
+  width: 65%;
+  float: right;
+}
+.eventTitle {
+  color: #d1d1d1;
+  font-family: Segoe UI Emoji;
+  font-size: 30;
+}
+.channelName {
+  color: #d1d1d1;
+  font-family: Segoe UI Emoji;
+  font-size: 50;
+}
+.time {
+  font-family: Segoe UI Emoji;
+  color: white;
+}
+.eventDescription {
+  color: #d1d1d1;
+  font-family: Segoe UI Emoji;
+  font-size: 25;
+}
